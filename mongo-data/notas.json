@@ -1,0 +1,274 @@
+[{
+  "rtasCorrectas": 2,
+  "cantidadPreguntas": 10,
+  "DNI": 40555888,
+  "name": "Juan",
+  "surname": "Rodriguez",
+  "calificacion": 20,
+  "fecha": {
+    "$date": {
+      "$numberLong": "1667484311002"
+    }
+  },
+  "__v": 0
+},{
+  "rtasCorrectas": 10,
+  "cantidadPreguntas": 10,
+  "DNI": 42688743,
+  "name": "denise",
+  "surname": "masci",
+  "calificacion": 100,
+  "fecha": {
+    "$date": {
+      "$numberLong": "1667493161414"
+    }
+  },
+  "__v": 0
+},{
+  "rtasCorrectas": 10,
+  "cantidadPreguntas": 10,
+  "DNI": 40594486,
+  "name": "Ignacio",
+  "surname": "Pessino Acuña",
+  "calificacion": 100,
+  "fecha": {
+    "$date": {
+      "$numberLong": "1667493198234"
+    }
+  },
+  "__v": 0
+},{
+  "rtasCorrectas": 8,
+  "cantidadPreguntas": 10,
+  "DNI": 40138146,
+  "name": "Micaela",
+  "surname": "Dominguez",
+  "calificacion": 80,
+  "fecha": {
+    "$date": {
+      "$numberLong": "1667493235564"
+    }
+  },
+  "__v": 0
+},{
+  "rtasCorrectas": 7,
+  "cantidadPreguntas": 10,
+  "DNI": 37551730,
+  "name": "Giselle",
+  "surname": "Irastorza ",
+  "calificacion": 70,
+  "fecha": {
+    "$date": {
+      "$numberLong": "1667493256254"
+    }
+  },
+  "__v": 0
+},{
+  "rtasCorrectas": 10,
+  "cantidadPreguntas": 10,
+  "DNI": 40932426,
+  "name": "Mailen Rocio",
+  "surname": "Fioravanti",
+  "calificacion": 100,
+  "fecha": {
+    "$date": {
+      "$numberLong": "1667493258284"
+    }
+  },
+  "__v": 0
+},{
+  "rtasCorrectas": 10,
+  "cantidadPreguntas": 10,
+  "DNI": 24436385,
+  "name": "Marcelo Aníbal",
+  "surname": "Alvarez",
+  "calificacion": 100,
+  "fecha": {
+    "$date": {
+      "$numberLong": "1667493276445"
+    }
+  },
+  "__v": 0
+},{
+  "rtasCorrectas": 7,
+  "cantidadPreguntas": 10,
+  "DNI": 42361468,
+  "name": "Ludmila",
+  "surname": "Rojo",
+  "calificacion": 70,
+  "fecha": {
+    "$date": {
+      "$numberLong": "1667493383714"
+    }
+  },
+  "__v": 0
+},{
+  "rtasCorrectas": 10,
+  "cantidadPreguntas": 10,
+  "DNI": 39627947,
+  "name": "Macarena",
+  "surname": "Rodriguez",
+  "calificacion": 100,
+  "fecha": {
+    "$date": {
+      "$numberLong": "1667493523600"
+    }
+  },
+  "__v": 0
+},{
+  "rtasCorrectas": 10,
+  "cantidadPreguntas": 10,
+  "DNI": 41717765,
+  "name": "Justo",
+  "surname": "Freije",
+  "calificacion": 100,
+  "fecha": {
+    "$date": {
+      "$numberLong": "1667493523709"
+    }
+  },
+  "__v": 0
+},{
+  "rtasCorrectas": 10,
+  "cantidadPreguntas": 10,
+  "DNI": 41873582,
+  "name": "Milagros",
+  "surname": "Herlein",
+  "calificacion": 100,
+  "fecha": {
+    "$date": {
+      "$numberLong": "1667493727832"
+    }
+  },
+  "__v": 0
+},{
+  "rtasCorrectas": 9,
+  "cantidadPreguntas": 10,
+  "DNI": 40138146,
+  "name": "Micaela",
+  "surname": "Dominguez",
+  "calificacion": 90,
+  "fecha": {
+    "$date": {
+      "$numberLong": "1667493962761"
+    }
+  },
+  "__v": 0
+},{
+  "rtasCorrectas": 2,
+  "cantidadPreguntas": 2,
+  "DNI": 40594486,
+  "name": "Ignacio",
+  "surname": "Pessino Acuña",
+  "calificacion": 100,
+  "fecha": {
+    "$date": {
+      "$numberLong": "1668232499102"
+    }
+  },
+  "__v": 0
+},{
+  "rtasCorrectas": 2,
+  "cantidadPreguntas": 2,
+  "DNI": 40594486,
+  "name": "Ignacio",
+  "surname": "Pessino Acuña",
+  "calificacion": 100,
+  "fecha": {
+    "$date": {
+      "$numberLong": "1668232547714"
+    }
+  },
+  "__v": 0
+},{
+  "rtasCorrectas": 2,
+  "cantidadPreguntas": 2,
+  "DNI": 40594486,
+  "name": "Ignacio",
+  "surname": "Pessino Acuña",
+  "calificacion": 100,
+  "fecha": {
+    "$date": {
+      "$numberLong": "1668232593494"
+    }
+  },
+  "__v": 0
+},{
+  "rtasCorrectas": 2,
+  "cantidadPreguntas": 2,
+  "DNI": 40594486,
+  "name": "Ignacio",
+  "surname": "Pessino Acuña",
+  "calificacion": 100,
+  "fecha": {
+    "$date": {
+      "$numberLong": "1668232625968"
+    }
+  },
+  "__v": 0
+},{
+  "rtasCorrectas": 2,
+  "cantidadPreguntas": 2,
+  "DNI": 40594486,
+  "name": "Ignacio",
+  "surname": "Pessino Acuña",
+  "calificacion": 100,
+  "fecha": {
+    "$date": {
+      "$numberLong": "1668232666052"
+    }
+  },
+  "__v": 0
+},{
+  "rtasCorrectas": 1,
+  "cantidadPreguntas": 2,
+  "DNI": 656565,
+  "name": "juan",
+  "surname": "test",
+  "calificacion": 50,
+  "fecha": {
+    "$date": {
+      "$numberLong": "1668435268965"
+    }
+  },
+  "__v": 0
+},{
+  "rtasCorrectas": 0,
+  "cantidadPreguntas": 2,
+  "DNI": 39828023,
+  "name": "Tomas",
+  "surname": "Castilla",
+  "calificacion": 0,
+  "fecha": {
+    "$date": {
+      "$numberLong": "1668438022672"
+    }
+  },
+  "__v": 0
+},{
+  "rtasCorrectas": 7,
+  "cantidadPreguntas": 7,
+  "DNI": 5454545,
+  "name": "Admin",
+  "surname": "Test",
+  "calificacion": 100,
+  "fecha": {
+    "$date": {
+      "$numberLong": "1669222093944"
+    }
+  },
+  "__v": 0
+},{
+  "rtasCorrectas": 3,
+  "cantidadPreguntas": 7,
+  "DNI": 656565,
+  "name": "juan",
+  "surname": "test",
+  "calificacion": 43,
+  "fecha": {
+    "$date": {
+      "$numberLong": "1669683473684"
+    }
+  },
+  "__v": 0
+}]

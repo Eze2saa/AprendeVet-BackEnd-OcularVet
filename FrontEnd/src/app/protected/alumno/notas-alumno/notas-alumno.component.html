@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+
+
+<main id="main" class="main">
+  <div class="card">
+    <div class="card-header">
+      <h1>Notas</h1>
+
+
+    </div>
+
+    <div class="col">
+      <div class="card overflow-auto">
+
+
+        <div class="card-body">
+          <table id="myTable2">
+            <thead align="center">
+              <th role="button" scope="col" (click)='sortTabla("fechaAsc")'> Fecha </th>
+              <th role="button" scope="col" (click)="sortTabla('rtasCorrectasAsc')"> Respuestas <br> Correctas </th>
+              <th role="button" scope="col" (click)="sortTabla('cantidadPreguntasAsc')"> Cantidad <br> Preguntas </th>
+              <th role="button" scope="col" (click)="sortTabla('calificacionAsc')"> Nota </th>
+            </thead>
+            <tbody align="center">
+              <tr *ngFor="let nota of notas">
+                
+                <td>{{ nota.fecha | date:"dd-MM-YYYY" }}</td>
+                <td>{{ nota.rtasCorrectas }}</td>
+                <td>{{ nota.cantidadPreguntas }}</td>
+                <td>{{ nota.calificacion }}</td>
+              </tr>
+            </tbody>
+          </table>
+
+        </div>
+
+      </div>
+
+    </div>
+
+  </div>
+</main>
+
+
+
+  <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i
+    class="bi bi-arrow-up-short"></i>
+  </a>
+
+
+
+
+</html>

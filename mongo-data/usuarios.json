@@ -1,0 +1,274 @@
+[{
+  "name": "ADMIN test 1",
+  "surname": "apellidoTest 1",
+  "DNI": 42312,
+  "email": "test1@test.coma",
+  "password": "$2a$10$CdGwjFC4AtmGI7LVTeRI5uAdzkFi9vJ/ga9QgVNTPiCF9amMFNb1O",
+  "isAdmin": true,
+  "fechaAlta": {
+    "$date": {
+      "$numberLong": "1666204930859"
+    }
+  },
+  "__v": 0
+},{
+  "name": "Lucas",
+  "surname": "Requena",
+  "DNI": 45031077,
+  "email": "testlucas@test.com",
+  "password": "$2a$10$f9XBUkm8QG2dUdTtNVkjO.lYrgscpCW2ZRz3sYV1GDS2ceYaKj552",
+  "isAdmin": false,
+  "fechaAlta": {
+    "$date": {
+      "$numberLong": "1634918415716"
+    }
+  },
+  "__v": 0
+},{
+  "name": "Pedro",
+  "surname": "Rabitti",
+  "DNI": 40942207,
+  "email": "rabittipedro@gmail.com",
+  "password": "$2a$10$p9ozFzyk/kgefjAkdU2GKujGmMAjIezv5lj5A0z2zc2bMsZDGXeGy",
+  "isAdmin": true,
+  "fechaAlta": {
+    "$date": {
+      "$numberLong": "1635125447638"
+    }
+  },
+  "__v": 0
+},{
+  "name": "Juan",
+  "surname": "Rodriguez",
+  "DNI": 40555888,
+  "email": "juanrodriguez_9@gmail.com",
+  "password": "$2a$10$wrfXWcvTk.WilhHXLcm4WeLvoGTAzasnyf9C1ASjxOYzSXqLxvska",
+  "isAdmin": false,
+  "fechaAlta": {
+    "$date": {
+      "$numberLong": "1667484247144"
+    }
+  },
+  "__v": 0
+},{
+  "name": "Micaela",
+  "surname": "Dominguez",
+  "DNI": 40138146,
+  "email": "mica.domiinguez@gmail.com",
+  "password": "$2a$10$nXWgJmHj5zwvp0fswup.L.0i7udLszyW0CROfkOJ4SXq4j612Facm",
+  "isAdmin": false,
+  "fechaAlta": {
+    "$date": {
+      "$numberLong": "1667492915609"
+    }
+  },
+  "__v": 0
+},{
+  "name": "Ignacio",
+  "surname": "Pessino Acuña",
+  "DNI": 40594486,
+  "email": "ignaciopessino@gmail.com",
+  "password": "$2a$10$d4h939n8QO/8DzsniTR6P.KeaOLhounJADiGzE/4fvq9acK/pkzQK",
+  "isAdmin": false,
+  "fechaAlta": {
+    "$date": {
+      "$numberLong": "1667492919170"
+    }
+  },
+  "__v": 0
+},{
+  "name": "denise",
+  "surname": "masci",
+  "DNI": 42688743,
+  "email": "denisemasci380@gmail.com",
+  "password": "$2a$10$rOOKZfCUR/D4NhRy1NUSkub5Ya3m04d27fb.Ty9croL20crXNmME6",
+  "isAdmin": false,
+  "fechaAlta": {
+    "$date": {
+      "$numberLong": "1667492923745"
+    }
+  },
+  "__v": 0
+},{
+  "name": "Macarena",
+  "surname": "Rodriguez",
+  "DNI": 39627947,
+  "email": "nare_maca@hotmail.com",
+  "password": "$2a$10$MgMgS2HRLB7lvGbc/6VmP.ybkg1/oas1/apDkgNbtSZRlNlN0cYVO",
+  "isAdmin": false,
+  "fechaAlta": {
+    "$date": {
+      "$numberLong": "1667492924736"
+    }
+  },
+  "__v": 0
+},{
+  "name": "Mailen Rocio",
+  "surname": "Fioravanti",
+  "DNI": 40932426,
+  "email": "fioravantimailen@gmail.com",
+  "password": "$2a$10$ZCZ9KAgDa2wahNeTzkHeK.oWcWNc2Iq0psU0GiVWAbXpaB82w2QWa",
+  "isAdmin": false,
+  "fechaAlta": {
+    "$date": {
+      "$numberLong": "1667492928940"
+    }
+  },
+  "__v": 0
+},{
+  "name": "Ludmila",
+  "surname": "Rojo",
+  "DNI": 42361468,
+  "email": "lulyrojo08@gmail.com",
+  "password": "$2a$10$itHgL/lUqukC9z32oHXMrugYnDRzX1iXLWgOqFBMOMRZGuQhP3Xq.",
+  "isAdmin": false,
+  "fechaAlta": {
+    "$date": {
+      "$numberLong": "1667492939188"
+    }
+  },
+  "__v": 0
+},{
+  "name": "Giselle",
+  "surname": "Irastorza ",
+  "DNI": 37551730,
+  "email": "gii.irastorza@hotmail.com",
+  "password": "$2a$10$0l5xPkrngPIQB9NEIqJX0eflSgovzbebRDFosxvWtXIb.Nzs6i2/S",
+  "isAdmin": false,
+  "fechaAlta": {
+    "$date": {
+      "$numberLong": "1667492945245"
+    }
+  },
+  "__v": 0
+},{
+  "name": "Milagros",
+  "surname": "Herlein",
+  "DNI": 41873582,
+  "email": "miliherlein29@gmail.com",
+  "password": "$2a$10$a15TjToXDx8KR7w5rUu0BOUh.jt4CgOnIDXktvdcNE6K4UbQCcSF2",
+  "isAdmin": false,
+  "fechaAlta": {
+    "$date": {
+      "$numberLong": "1667492946438"
+    }
+  },
+  "__v": 0
+},{
+  "name": "Marcelo Aníbal",
+  "surname": "Alvarez",
+  "DNI": 24436385,
+  "email": "marceloalvarezneuro@gmail.com",
+  "password": "$2a$10$DbJlitM30CJqIe8Y2pjTOegn2ohRctOjjD8fDmlxANiygwHIhAod6",
+  "isAdmin": false,
+  "fechaAlta": {
+    "$date": {
+      "$numberLong": "1667493073253"
+    }
+  },
+  "__v": 0
+},{
+  "name": "Justo",
+  "surname": "Freije",
+  "DNI": 41717765,
+  "email": "justofreije@gmail.com",
+  "password": "$2a$10$OHQ3.evOG3cz6B6g1ZS/8OCb8wPUgYUlgyhief7sqZMr5tUXDJN6e",
+  "isAdmin": false,
+  "fechaAlta": {
+    "$date": {
+      "$numberLong": "1667493221954"
+    }
+  },
+  "__v": 0
+},{
+  "name": "Pedro",
+  "surname": "Alexander",
+  "DNI": 66565656,
+  "email": "pedro@test.com",
+  "password": "$2a$10$zRcDUHn7NSbSMQCLduHe/eaWMAOLmU9kYfFCxRj3.XmvAGrblxZ9a",
+  "isAdmin": false,
+  "fechaAlta": {
+    "$date": {
+      "$numberLong": "1668181042693"
+    }
+  },
+  "__v": 0
+},{
+  "name": "Hola",
+  "surname": "Apellido ",
+  "DNI": 123456789,
+  "email": "hola@test.com",
+  "password": "$2a$10$j3kAmUTx6cR4ExammyBLLOLvbVjHBwlhlzdq2IIY4Y1azS3UM1gC2",
+  "isAdmin": false,
+  "fechaAlta": {
+    "$date": {
+      "$numberLong": "1668182414768"
+    }
+  },
+  "__v": 0
+},{
+  "name": "dawd",
+  "surname": "dawd",
+  "DNI": 2342343,
+  "email": "a@a.com",
+  "password": "$2a$10$AIbX9rYUI/edlmJzqpwYWeEuw4RjDErFtG7UTyMaGE8LSNdJm0Fya",
+  "isAdmin": false,
+  "fechaAlta": {
+    "$date": {
+      "$numberLong": "1668270236678"
+    }
+  },
+  "__v": 0
+},{
+  "name": "dawd",
+  "surname": "dawd",
+  "DNI": 3432,
+  "email": "test4@test.com",
+  "password": "$2a$10$STxgTR59gENLLxN1IWdwMuE8pmS.BxjpbcqqirzC5zx4fZYbM8.ru",
+  "isAdmin": false,
+  "fechaAlta": {
+    "$date": {
+      "$numberLong": "1668282239568"
+    }
+  },
+  "__v": 0
+},{
+  "name": "juan",
+  "surname": "test",
+  "DNI": 656565,
+  "email": "test1@test.com",
+  "password": "$2a$10$x4Fjf.MLGpT3F8oWENU56eHBrDN17OWxyp9eNj7b9V7HZFl87pL5G",
+  "isAdmin": false,
+  "fechaAlta": {
+    "$date": {
+      "$numberLong": "1668435244347"
+    }
+  },
+  "__v": 0
+},{
+  "name": "Tomas",
+  "surname": "Castilla",
+  "DNI": 39828023,
+  "email": "tomasc613@gmail.com",
+  "password": "$2a$10$4645vLQMVEFlE/Qe4/d5qeEw/MrkCsK7X2Ag5vqkywHBVWa5cg/Oa",
+  "isAdmin": false,
+  "fechaAlta": {
+    "$date": {
+      "$numberLong": "1668437773064"
+    }
+  },
+  "__v": 0
+},{
+  "name": "Admin",
+  "surname": "Test",
+  "DNI": 5454545,
+  "email": "admin@test.com",
+  "password": "$2a$10$uMe6e6wFykNPRzoMQT8HTeu103Q6V.ZVdaridB5Eics8eMtPkuWIi",
+  "isAdmin": true,
+  "fechaAlta": {
+    "$date": {
+      "$numberLong": "1668448401810"
+    }
+  },
+  "__v": 0
+}]

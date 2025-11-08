@@ -1,0 +1,7 @@
+__v,_id,derIluminado_AchicaDer,derIluminado_AchicaIzq,descripcion,id,izqIluminado_AchicaDer,izqIluminado_AchicaIzq
+0,62fba4af7797c1a4f355633d,true,true,Normal,NORMAL,true,true
+0,62fba5287797c1a4f355633f,true,true,Lesión nervio óptico izquierdo,LNOptico_I,false,false
+0,62fba6e661732f683511edcd,false,false,Lesión nervio óptico derecho,LNOptico_D,true,true
+0,6303958d0bbb24df1547ee34,false,true,Lesión nervio oculomotor derecho,LNOculomotor_D,false,true
+0,630395c20bbb24df1547ee36,true,false,Lesión nervio oculomotor izquierdo,LNOculomotor_I,true,false
+0,630396310bbb24df1547ee38,true,false,Quiasma Óptico,Q_O,false,true

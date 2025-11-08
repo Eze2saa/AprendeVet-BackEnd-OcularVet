@@ -1,0 +1,22 @@
+DNI,__v,_id,email,fechaAlta,isAdmin,name,password,surname
+42312,0,63504502d7739da7a9c8f495,test1@test.coma,2022-10-19T18:42:10.859Z,true,ADMIN test 1,$2a$10$CdGwjFC4AtmGI7LVTeRI5uAdzkFi9vJ/ga9QgVNTPiCF9amMFNb1O,apellidoTest 1
+45031077,0,6354138f35d43671597b77fe,testlucas@test.com,2021-10-22T16:00:15.716Z,false,Lucas,$2a$10$f9XBUkm8QG2dUdTtNVkjO.lYrgscpCW2ZRz3sYV1GDS2ceYaKj552,Requena
+40942207,0,63573c47af76c434b3f5d958,rabittipedro@gmail.com,2021-10-25T01:30:47.638Z,true,Pedro,$2a$10$p9ozFzyk/kgefjAkdU2GKujGmMAjIezv5lj5A0z2zc2bMsZDGXeGy,Rabitti
+40555888,0,6363ca5748d7952fc031b599,juanrodriguez_9@gmail.com,2022-11-03T14:04:07.144Z,false,Juan,$2a$10$wrfXWcvTk.WilhHXLcm4WeLvoGTAzasnyf9C1ASjxOYzSXqLxvska,Rodriguez
+40138146,0,6363ec33b76380616418db9d,mica.domiinguez@gmail.com,2022-11-03T16:28:35.609Z,false,Micaela,$2a$10$nXWgJmHj5zwvp0fswup.L.0i7udLszyW0CROfkOJ4SXq4j612Facm,Dominguez
+40594486,0,6363ec37b76380616418dba6,ignaciopessino@gmail.com,2022-11-03T16:28:39.170Z,false,Ignacio,$2a$10$d4h939n8QO/8DzsniTR6P.KeaOLhounJADiGzE/4fvq9acK/pkzQK,Pessino Acuña
+42688743,0,6363ec3bb76380616418dbaf,denisemasci380@gmail.com,2022-11-03T16:28:43.745Z,false,denise,$2a$10$rOOKZfCUR/D4NhRy1NUSkub5Ya3m04d27fb.Ty9croL20crXNmME6,masci
+39627947,0,6363ec3cb76380616418dbb6,nare_maca@hotmail.com,2022-11-03T16:28:44.736Z,false,Macarena,$2a$10$MgMgS2HRLB7lvGbc/6VmP.ybkg1/oas1/apDkgNbtSZRlNlN0cYVO,Rodriguez
+40932426,0,6363ec40b76380616418dbc1,fioravantimailen@gmail.com,2022-11-03T16:28:48.940Z,false,Mailen Rocio,$2a$10$ZCZ9KAgDa2wahNeTzkHeK.oWcWNc2Iq0psU0GiVWAbXpaB82w2QWa,Fioravanti
+42361468,0,6363ec4bb76380616418dbca,lulyrojo08@gmail.com,2022-11-03T16:28:59.188Z,false,Ludmila,$2a$10$itHgL/lUqukC9z32oHXMrugYnDRzX1iXLWgOqFBMOMRZGuQhP3Xq.,Rojo
+37551730,0,6363ec51b76380616418dbd3,gii.irastorza@hotmail.com,2022-11-03T16:29:05.245Z,false,Giselle,$2a$10$0l5xPkrngPIQB9NEIqJX0eflSgovzbebRDFosxvWtXIb.Nzs6i2/S,Irastorza 
+41873582,0,6363ec52b76380616418dbda,miliherlein29@gmail.com,2022-11-03T16:29:06.438Z,false,Milagros,$2a$10$a15TjToXDx8KR7w5rUu0BOUh.jt4CgOnIDXktvdcNE6K4UbQCcSF2,Herlein
+24436385,0,6363ecd1b76380616418dc22,marceloalvarezneuro@gmail.com,2022-11-03T16:31:13.253Z,false,Marcelo Aníbal,$2a$10$DbJlitM30CJqIe8Y2pjTOegn2ohRctOjjD8fDmlxANiygwHIhAod6,Alvarez
+41717765,0,6363ed65b76380616418dc46,justofreije@gmail.com,2022-11-03T16:33:41.954Z,false,Justo,$2a$10$OHQ3.evOG3cz6B6g1ZS/8OCb8wPUgYUlgyhief7sqZMr5tUXDJN6e,Freije
+66565656,0,636e6c3235539385a4606203,pedro@test.com,2022-11-11T15:37:22.693Z,false,Pedro,$2a$10$zRcDUHn7NSbSMQCLduHe/eaWMAOLmU9kYfFCxRj3.XmvAGrblxZ9a,Alexander
+123456789,0,636e718e35539385a4606210,hola@test.com,2022-11-11T16:00:14.768Z,false,Hola,$2a$10$j3kAmUTx6cR4ExammyBLLOLvbVjHBwlhlzdq2IIY4Y1azS3UM1gC2,Apellido 
+2342343,0,636fc89c56bfefcc2b76a78e,a@a.com,2022-11-12T16:23:56.678Z,false,dawd,$2a$10$AIbX9rYUI/edlmJzqpwYWeEuw4RjDErFtG7UTyMaGE8LSNdJm0Fya,dawd
+3432,0,636ff77f154403e07c4fe6c0,test4@test.com,2022-11-12T19:43:59.568Z,false,dawd,$2a$10$STxgTR59gENLLxN1IWdwMuE8pmS.BxjpbcqqirzC5zx4fZYbM8.ru,dawd
+656565,0,63724d2cb809e3782473a2e5,test1@test.com,2022-11-14T14:14:04.347Z,false,juan,$2a$10$x4Fjf.MLGpT3F8oWENU56eHBrDN17OWxyp9eNj7b9V7HZFl87pL5G,test
+39828023,0,6372570de0aeee0a16457c73,tomasc613@gmail.com,2022-11-14T14:56:13.064Z,false,Tomas,$2a$10$4645vLQMVEFlE/Qe4/d5qeEw/MrkCsK7X2Ag5vqkywHBVWa5cg/Oa,Castilla
+5454545,0,637280917e67ed0fa428ad45,admin@test.com,2022-11-14T17:53:21.810Z,true,Admin,$2a$10$uMe6e6wFykNPRzoMQT8HTeu103Q6V.ZVdaridB5Eics8eMtPkuWIi,Test

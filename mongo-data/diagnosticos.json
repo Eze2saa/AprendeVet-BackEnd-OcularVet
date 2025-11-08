@@ -1,0 +1,49 @@
+[{
+  "id": "NORMAL",
+  "descripcion": "Normal",
+  "derIluminado_AchicaDer": true,
+  "derIluminado_AchicaIzq": true,
+  "izqIluminado_AchicaDer": true,
+  "izqIluminado_AchicaIzq": true,
+  "__v": 0
+},{
+  "id": "LNOptico_I",
+  "descripcion": "Lesión nervio óptico izquierdo",
+  "derIluminado_AchicaDer": true,
+  "derIluminado_AchicaIzq": true,
+  "izqIluminado_AchicaDer": false,
+  "izqIluminado_AchicaIzq": false,
+  "__v": 0
+},{
+  "id": "LNOptico_D",
+  "descripcion": "Lesión nervio óptico derecho",
+  "derIluminado_AchicaDer": false,
+  "derIluminado_AchicaIzq": false,
+  "izqIluminado_AchicaDer": true,
+  "izqIluminado_AchicaIzq": true,
+  "__v": 0
+},{
+  "id": "LNOculomotor_D",
+  "descripcion": "Lesión nervio oculomotor derecho",
+  "derIluminado_AchicaDer": false,
+  "derIluminado_AchicaIzq": true,
+  "izqIluminado_AchicaDer": false,
+  "izqIluminado_AchicaIzq": true,
+  "__v": 0
+},{
+  "id": "LNOculomotor_I",
+  "descripcion": "Lesión nervio oculomotor izquierdo",
+  "derIluminado_AchicaDer": true,
+  "derIluminado_AchicaIzq": false,
+  "izqIluminado_AchicaDer": true,
+  "izqIluminado_AchicaIzq": false,
+  "__v": 0
+},{
+  "id": "Q_O",
+  "descripcion": "Quiasma Óptico",
+  "derIluminado_AchicaDer": true,
+  "derIluminado_AchicaIzq": false,
+  "izqIluminado_AchicaDer": false,
+  "izqIluminado_AchicaIzq": true,
+  "__v": 0
+}]
