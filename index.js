@@ -11,7 +11,9 @@ const app = express();
 dbConnection();
 
 //Directorio publico
-app.use( express.static('public'));
+
+//Esto hace que se corra el front end pre compilado
+// app.use( express.static('public'));
 
 //CORS
 app.use(cors());
